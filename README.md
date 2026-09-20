@@ -63,5 +63,5 @@ Truck delivers laboratory equipment to Aktau warehouse by road
 
 
 ## Repository / submission notes
-- Submitted commit: <fill in the commit hash before submitting>
-- GitHub repository link: <fill in>
+- Submitted commit: eee38cad57943a702f8d238b57c1f647ccad33a8
+- GitHub repository link: https://github.com/araildiil/assignment2-factory-patterns.git
